@@ -1,8 +1,8 @@
-const ENDPOINT = '';
-const PROJECT_ID = '';
-const DATABASE_ID = '';
-const COLLECTION_ID = '';
-const BUCKET_ID = '';
+const ENDPOINT = 'https://cloud.appwrite.io/v1';
+const PROJECT_ID = '677275b50035785e9585';
+const DATABASE_ID = '6773b8a5002ebce7718a';
+const COLLECTION_ID = '6773b901003a61a8091b';
+const BUCKET_ID = '6773bcbe00315a4ba120';
 
 export async function getCurrentSession() {
   try {
